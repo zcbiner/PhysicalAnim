@@ -1,0 +1,3 @@
+include ':physical-anim'
+include ':app'
+rootProject.name = "PhysicalAnim"
